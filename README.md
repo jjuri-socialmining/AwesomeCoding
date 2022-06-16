@@ -1,7 +1,7 @@
 # Awesome-coding
 Awesome-coding is a big collection of links related to coding stuff.
 
-# Contents:
+## Contents:
 - [Coding academy](#Coding-academy)
 - [Coding account](#Coding-account)
 - [Coding articles](#Coding-articles)
