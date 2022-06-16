@@ -9,9 +9,11 @@ Awesome-coding is a big collection of links related to coding stuff.
 - [Coding games](#Coding-games)
 - [Coding resources](#Coding-resources)
 - [Coding video](#Coding-video)
-- [My coding](#My-coding)
 - [Programming language](#Programming-languge)
 - [Repository coding](#Repository-coding)
+
+## My coding
+- [My coding](#My-coding)
 
 ---
 
@@ -401,26 +403,7 @@ Awesome-coding is a big collection of links related to coding stuff.
 - [Sácale chispas a Chrome Developer Tools (DevTools)](https://www.youtube.com/watch?pbjreload=101&v=xBXYIs4-xJE)
 - [Simple File Manager Using Visual C# . NET](https://www.youtube.com/watch?v=oRtME1oJD7M)
 - [SQL Tutorial - Full Database Course for Beginners](https://www.youtube.com/watch?v=HXV3zeQKqGY)
-# My coding
-## My Compiler
-- [CodePen - Login](https://codepen.io/login)
-- [Codingground](https://www.tutorialspoint.com/coding_platform_for_websites.htm)
-- [Dabblet - Login](https://dabblet.com/login)
-- [Jdoodle](https://www.jdoodle.com/html-css-javascript-online-editor/)
-- [JS Bin - Login](https://jsbin.com/login)
-- [JSFiddle - Login](https://jsfiddle.net/user/login/)
-- [OneCompiler - Login](https://onecompiler.com/login)
-- [Online GDB - Login](https://www.onlinegdb.com/login)
-- [Paiza](https://paiza.io/en/projects/new)
-- [Replit - Login](https://replit.com/login)
-- [Rextester - Login](https://rextester.com/login)
-## My Code
-- [PlayCode.io](https://playcode.io/new)
-- [Substack - Log In](https://stackoverflow.com/users/login)
-- [W3Schools - Login](https://profile.w3schools.com/log-in)
-## My SourceCode
-- [GitHub - Login](https://github.com/login)
-- [Kaggle - Login](https://www.kaggle.com/account/login)
+
 # Programming language
 ## Latex
 - [CTAN: Comprehensive TeX Archive Network](https://www.ctan.org/)
@@ -757,3 +740,26 @@ Awesome-coding is a big collection of links related to coding stuff.
 - [Xfce · GitLab](https://gitlab.xfce.org/xfce)
 - [YouTube Vanced · GitHub](https://github.com/YTVanced)
 - [Wine - SourceForg](https://sourceforge.net/projects/wine/)
+
+---
+
+# My coding
+## My Compiler
+- [CodePen - Login](https://codepen.io/login)
+- [Codingground](https://www.tutorialspoint.com/coding_platform_for_websites.htm)
+- [Dabblet - Login](https://dabblet.com/login)
+- [Jdoodle](https://www.jdoodle.com/html-css-javascript-online-editor/)
+- [JS Bin - Login](https://jsbin.com/login)
+- [JSFiddle - Login](https://jsfiddle.net/user/login/)
+- [OneCompiler - Login](https://onecompiler.com/login)
+- [Online GDB - Login](https://www.onlinegdb.com/login)
+- [Paiza](https://paiza.io/en/projects/new)
+- [Replit - Login](https://replit.com/login)
+- [Rextester - Login](https://rextester.com/login)
+## My Code
+- [PlayCode.io](https://playcode.io/new)
+- [Substack - Log In](https://stackoverflow.com/users/login)
+- [W3Schools - Login](https://profile.w3schools.com/log-in)
+## My SourceCode
+- [GitHub - Login](https://github.com/login)
+- [Kaggle - Login](https://www.kaggle.com/account/login)
