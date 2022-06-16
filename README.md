@@ -11,8 +11,6 @@ Awesome-coding is a big collection of links related to coding stuff.
 - [Coding video](#Coding-video)
 - [Programming language](#Programming-languge)
 - [Repository coding](#Repository-coding)
-
-## My coding
 - [My coding](#My-coding)
 
 ---
